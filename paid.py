@@ -30,7 +30,7 @@ if bit == '64bit':
 
  
 
-    from w9s import menu3
+    from v9s import menu3
 
  
 
