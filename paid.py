@@ -42,7 +42,7 @@ elif bit == '32bit':
 
  
 
-    from v9 import menu3
+    from v9-1 import menu3
 
  
 
